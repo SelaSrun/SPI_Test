@@ -11,6 +11,7 @@ namespace SPI
         static void Main(string[] args)
         {
             Console.Write("Hello Saroeun");
+            Console.Write("Hello Gurutech");
 
             Console.ReadKey();
         }
