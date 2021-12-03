@@ -10,7 +10,7 @@ namespace SPI
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello Saroeunll");
+            Console.Write("Hello Saroeun");
 
             Console.ReadKey();
         }
